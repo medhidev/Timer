@@ -1,0 +1,10 @@
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.window.resources
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\oxybl\Desktop\Timer\Timer\Timer\obj\Debug\Timer.pdb
